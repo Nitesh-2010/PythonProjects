@@ -1,2 +1,2 @@
 print("Nitesh Maheshwary")
-print("Hey bhagwaan!")
+print("2+3 = 5")
