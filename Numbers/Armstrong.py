@@ -1,4 +1,4 @@
-n = int(input("enter any number = "))
+n = int(input("Enter any number = "))
 c = len(str(n))
 s = 0
 a = n
